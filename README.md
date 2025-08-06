@@ -1,12 +1,3 @@
-# Házi feladat specifikáció
-
-Információk [itt](https://viaumb02.github.io/laborok/android/A01/)
-
-## Mobilszoftver Laboratórium
-### 2025 tavaszi félév
-### Nagy Dániel - (UU5SCQ)
-### Laborvezető: Pomázi Krisztián
-
 ## GymDex
 
 <img src="./assets/rounded_logo.png" width="160">

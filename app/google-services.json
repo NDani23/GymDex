@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094528277020",
+    "project_id": "gymdex-a9ff4",
+    "storage_bucket": "gymdex-a9ff4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094528277020:android:d2337a52a78d4779665dd9",
+        "android_client_info": {
+          "package_name": "com.example.gymdex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqSOEmxwEwj1reY7nV9w3YqBbCzm8WEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

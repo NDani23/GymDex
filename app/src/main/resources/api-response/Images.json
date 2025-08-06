@@ -1,0 +1,187 @@
+{
+  "count": 204,
+  "next": "http://exercise.hellogym.io/api/v2/exerciseimage/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "id": 2,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/4/Crunches-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 4
+    },
+    {
+      "id": 4,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/91/Crunches-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 91
+    },
+    {
+      "id": 6,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/32/Decline-crunch-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 32
+    },
+    {
+      "id": 8,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/93/Decline-crunch-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 93
+    },
+    {
+      "id": 10,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/60/Hyperextensions-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 60
+    },
+    {
+      "id": 12,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/128/Hyperextensions-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 128
+    },
+    {
+      "id": 14,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/38/Narrow-grip-bench-press-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 38
+    },
+    {
+      "id": 16,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/88/Narrow-grip-bench-press-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 88
+    },
+    {
+      "id": 18,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/3/Standing-biceps-curl-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 3
+    },
+    {
+      "id": 20,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/129/Standing-biceps-curl-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 129
+    },
+    {
+      "id": 22,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/26/Biceps-curl-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 26
+    },
+    {
+      "id": 24,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/81/Biceps-curl-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 81
+    },
+    {
+      "id": 26,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/24/Bicep-curls-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 24
+    },
+    {
+      "id": 28,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/74/Bicep-curls-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 74
+    },
+    {
+      "id": 30,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/29/Tricep-dips-2-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 29
+    },
+    {
+      "id": 32,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/82/Tricep-dips-2-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 82
+    },
+    {
+      "id": 34,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/68/Bench-dips-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 68
+    },
+    {
+      "id": 36,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/83/Bench-dips-2.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 83
+    },
+    {
+      "id": 38,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/8/Dumbbell-shrugs-1.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 8
+    },
+    {
+      "id": 40,
+      "license_author": null,
+      "status": "2",
+      "image": "http://exercise.hellogym.io/media/exercise-images/151/Dumbbell-shrugs-1.png",
+      "is_main": true,
+      "license": 2,
+      "exercise": 151
+    }
+  ]
+}
